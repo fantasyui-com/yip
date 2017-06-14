@@ -1,6 +1,6 @@
 {
   "name": "yip",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Electron backed music player based on the howler audio library.",
   "main": "index.js",
   "scripts": {
